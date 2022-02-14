@@ -1,6 +1,8 @@
 Sublime Text Snippets for Joomla! 3.x
 =====================================
 
+## This repo is now archived, so there will be no additional work done here.
+
 This is a [Sublime Text][sublime] package which includes a bunch of handy snippets for doing CMS Joomla! 3.x development.
 
 ## Installation ##
